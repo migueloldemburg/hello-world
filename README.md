@@ -1,11 +1,3 @@
 # hello-world
-A place where you store ideas, resources, or even share and discuss things with others
-
-This is the first file I created when following the Git Hub tutorial on GitHub.com
-I am modifying this line from my computer after cloning this project
-
-Another modified line
-Agregue una linea
-
-////////////////////////////////////////////////
-MODIFIED LINE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+1) Build your first android app:
+https://codelabs.developers.google.com/codelabs/build-your-first-android-app/#0
